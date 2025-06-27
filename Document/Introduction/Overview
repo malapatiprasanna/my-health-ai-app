@@ -1,0 +1,28 @@
+Project Overview: HealthAI
+HealthAI is an AI-powered healthcare web application that provides intelligent, personalized medical guidance to users. 
+It integrates IBM’s Granite-13B-Instruct-v2 language model to simulate the behavior of a virtual health assistant. 
+The project is built using Streamlit for the frontend, Python for backend logic, and Plotly for dynamic health data visualizations.
+
+Key Features:
+🗣 Patient Chat
+Users can ask any health-related questions, and the AI responds with empathetic, informative, and safe answers based on trusted medical patterns.
+
+🔍 Disease Prediction
+Based on the user’s input symptoms and profile (age, gender, medical history), HealthAI predicts possible conditions, their likelihood, and next recommended steps.
+
+📋 Treatment Plan Generator
+For known conditions, the AI creates evidence-based personalized treatment plans, including medication suggestions, lifestyle tips, and follow-up actions.
+
+📊 Health Analytics Dashboard
+Users can view trends in simulated health metrics (heart rate, blood pressure, glucose levels) via interactive charts, along with AI-generated health insights.
+
+Technology Stack:
+Frontend: Streamlit (with responsive UI and tabs)
+
+Backend: Python (with session state and logic layers)
+
+AI Model: IBM Granite-13B-Instruct-v2 via Hugging Face or WatsonX APIs
+
+Data Visualization: Plotly for charts and health metrics
+
+Environment Management: dotenv, virtualenv
