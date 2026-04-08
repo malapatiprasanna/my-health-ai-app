@@ -18,4 +18,4 @@ HealthAI offers the following key functionalities:
 
 **Disclaimer:** HealthAI provides general health information and insights based on AI models. It is **NOT a substitute for professional medical advice, diagnosis, or treatment.** Always consult a qualified healthcare provider for any health concerns.
 
-
+## https://health-ai-qqvgugwhvp4crcmrndezgi.streamlit.app/
